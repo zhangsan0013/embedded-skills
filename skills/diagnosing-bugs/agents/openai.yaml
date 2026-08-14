@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagnosing Bugs"
+  short_description: "Diagnose software and embedded-system failures"
+  default_prompt: "Use $diagnosing-bugs to diagnose this failure from reproducible evidence or preserved target artifacts."
